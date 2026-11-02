@@ -1,0 +1,22 @@
+{
+  "n": 35754,
+  "response_patterns": 1020,
+  "source_sha256": "aa55c4e6d017891c9e77454af91d4c8493c5a3b2484c6d3abf370e77571c3c9f",
+  "seed": 20261102,
+  "starts_per_k": 30,
+  "selected_k": 5,
+  "bic_best_k": 6,
+  "selection": "researcher-selected K=5 balancing fit, entropy, parsimony and profile interpretability; not the BIC minimum",
+  "selected_delta_BIC": 866.1838417348627,
+  "selected_best_replications": 17,
+  "entropy": 0.8158017338439104,
+  "uncertain_lt_0_70_pct": 13.785870112434973,
+  "primary_fit": "unweighted ML; no survey design adjustment",
+  "max_iter": 10000,
+  "absolute_ll_tolerance": 1e-05,
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.2"
+  },
+  "validation": "posterior sums, score recoding and monotone EM checked"
+}
