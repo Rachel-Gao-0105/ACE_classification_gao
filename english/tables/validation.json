@@ -1,0 +1,27 @@
+{
+  "source": "Preprocessing\\BRFSS_2023_ACE_SCD_main.csv",
+  "source_sha256": "aa55c4e6d017891c9e77454af91d4c8493c5a3b2484c6d3abf370e77571c3c9f",
+  "n": 35754,
+  "states": [
+    10,
+    12,
+    13,
+    29,
+    32,
+    34,
+    41,
+    44,
+    47,
+    51
+  ],
+  "ace_score_mismatches": 0,
+  "raw_binary_mismatches": 0,
+  "ace_missing_cells": 0,
+  "exact_patterns": 1020,
+  "top20_full_sample_coverage_pct": 32.723611344185265,
+  "validation": "passed",
+  "versions": {
+    "pandas": "2.3.2",
+    "numpy": "1.26.4"
+  }
+}
